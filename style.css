@@ -1,0 +1,35 @@
+.conteiner{
+    background-color: #303030;
+    width: 300px;
+    height: 125px;
+    gap: 12px;
+    align-items: center;
+    border-radius: 12px;
+    padding: 28px;
+
+}
+
+.caja1{
+    width: 156px;
+    height: 68px;
+    gap: 4px;
+    
+}
+.conteiner  p{
+    color: #FFFFFF;
+    font-size: 34px;
+    
+}
+.imagen{
+    width: 64px;
+    height: 64px;
+    border-radius: 50;
+    padding: 11px;
+    gap: 10px;
+    display: block;
+}
+.conteiner ul{
+    color: #FFFFFF;
+    font-size: 12px;
+   font-weight: 500;
+}
